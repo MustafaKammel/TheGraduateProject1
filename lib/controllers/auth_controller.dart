@@ -4,7 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
 import 'package:graduateproject/onboarding/onboarding.dart';
-import 'package:graduateproject/onboarding/widgets/onboarding_page.dart';
 import 'package:graduateproject/utils/consts/consts.dart';
 import 'package:graduateproject/views/appointment_view/appointment_view.dart';
 import 'package:graduateproject/views/home_view/home.dart';
